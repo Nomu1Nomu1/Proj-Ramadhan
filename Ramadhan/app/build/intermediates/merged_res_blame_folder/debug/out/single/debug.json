@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_yuhuu.jpeg.flat",
+        "source": "com.example.ramadhan.app-main-33:/drawable/yuhuu.jpeg"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_b.png.flat",
+        "source": "com.example.ramadhan.app-main-33:/drawable/b.png"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_baseline_calendar_month_24.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/drawable/baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_wakwaww.png.flat",
+        "source": "com.example.ramadhan.app-main-33:/drawable/wakwaww.png"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_ramadhan.jpg.flat",
+        "source": "com.example.ramadhan.app-main-33:/drawable/ramadhan.jpg"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/layout_activity_loading.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/layout/activity_loading.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_ic_qibla_dua.png.flat",
+        "source": "com.example.ramadhan.app-main-33:/drawable/ic_qibla_dua.png"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/layout_header.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/layout/header.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/menu_main_menu.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_ic_qibla_satu.png.flat",
+        "source": "com.example.ramadhan.app-main-33:/drawable/ic_qibla_satu.png"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/layout_activity_kiblat.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/layout/activity_kiblat.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/layout_activity_jadwalsholat.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/layout/activity_jadwalsholat.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_ic_qibla_tiga.png.flat",
+        "source": "com.example.ramadhan.app-main-33:/drawable/ic_qibla_tiga.png"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_w.png.flat",
+        "source": "com.example.ramadhan.app-main-33:/drawable/w.png"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ramadhan.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.ramadhan.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_desain_tanpa_judul__1_.png.flat",
+        "source": "com.example.ramadhan.app-main-33:/drawable/desain_tanpa_judul__1_.png"
+    }
+]
