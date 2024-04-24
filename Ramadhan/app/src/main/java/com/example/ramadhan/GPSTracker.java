@@ -107,24 +107,24 @@ public class GPSTrakcer extends Service implements LocationListener {
     }
 
     public void showSettingsAlert(){
-        AlertDialog.Builder alertDialog = new AlertDialog.Builder(mContext);
-        alertDialog.setTitle("GPS Setting");
-        alertDialog.setMessage("GPS is not enabled. Do you want go to settings menu?");
-        alertDialog.setPositiveButton(mContext.getResources().getString(R.string.settings_button_ok), new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                Intent intent = new Intent(Settings.ACTION_LOCATION_SOURCE_SETTINGS);
-                mContext.startActivity(intent);
-            }
-        });
-
-        alertDialog.setNegativeButton(mContext.getResources().getString(R.string.settings_button_cancel), new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                dialog.cancel();
-            }
-        });
-        alertDialog.show();
+//        AlertDialog.Builder alertDialog = new AlertDialog.Builder(mContext);
+//        alertDialog.setTitle("GPS Setting");
+//        alertDialog.setMessage("GPS is not enabled. Do you want go to settings menu?");
+//        alertDialog.setPositiveButton(mContext.getResources().getString(R.string.settings_button_ok), new DialogInterface.OnClickListener() {
+//            @Override
+//            public void onClick(DialogInterface dialog, int which) {
+//                Intent intent = new Intent(Settings.ACTION_LOCATION_SOURCE_SETTINGS);
+//                mContext.startActivity(intent);
+//            }
+//        });
+//
+//        alertDialog.setNegativeButton(mContext.getResources().getString(R.string.settings_button_cancel), new DialogInterface.OnClickListener() {
+//            @Override
+//            public void onClick(DialogInterface dialog, int which) {
+//                dialog.cancel();
+//            }
+//        });
+//        alertDialog.show();
     }
 
 
