@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.MenuItem;
@@ -42,11 +43,15 @@ public class MainActivity extends AppCompatActivity {
             public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
                 int itemId = menuItem.getItemId();
                 if (itemId == R.id.jadwal) {
+                    Intent intent = new Intent(MainActivity.this,activityJadwalsholat.class);
                     Toast.makeText(MainActivity.this, "Jadwal Sholat", Toast.LENGTH_SHORT);
+                    startActivity(intent);
 
                     Toast.makeText(MainActivity.this, "Arah Kiblat", Toast.LENGTH_SHORT);
                 } else if (itemId == R.id.kiblat) {
+                    Intent intent = new Intent(MainActivity.this,Compass.class);
                     Toast.makeText(MainActivity.this, "Arah Kiblat", Toast.LENGTH_SHORT);
+                    startActivity(intent);
                 }
 
                 return false;

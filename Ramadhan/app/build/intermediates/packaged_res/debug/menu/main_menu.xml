@@ -4,9 +4,12 @@
         <item android:id="@+id/jadwal"
             android:icon="@drawable/baseline_calendar_month_24"
             android:title="Jadwal"/>
+<<<<<<< HEAD
+=======
         <item android:id="@+id/kiblat"
             android:icon="@drawable/baseline_add_location_24"
             android:title="Kiblat"/>
+>>>>>>> origin/main
     </group>
 
 </menu>
