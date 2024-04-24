@@ -19,7 +19,7 @@ import androidx.annotation.Nullable;
 
 import java.security.Provider;
 
-public class GPSTrakcer extends Service implements LocationListener {
+public class GPSTracker extends Service implements LocationListener {
     private final Context mContext;
     boolean isGPSEnabled = false;
     boolean isNetworkEnabled = false;
@@ -31,7 +31,7 @@ public class GPSTrakcer extends Service implements LocationListener {
     private static final long MIN_DISTANCE_CHANGE_FOR_UPDATES = 100;
     private static final long MIN_TIME_BW_UPDATES = 1000 * 60 * 1;
     protected LocationManager locationManager;
-    public GPSTrakcer(Context context) {
+    public GPSTracker(Context context) {
         this.mContext = context;
         getLocation();
     }
@@ -84,7 +84,7 @@ public class GPSTrakcer extends Service implements LocationListener {
 
     public void stopUsingGPS(){
         if (locationManager != null){
-            locationManager.removeUpdates(GPSTrakcer.this);
+            locationManager.removeUpdates(GPSTracker.this);
         }
     }
 
@@ -110,20 +110,20 @@ public class GPSTrakcer extends Service implements LocationListener {
         AlertDialog.Builder alertDialog = new AlertDialog.Builder(mContext);
         alertDialog.setTitle("GPS Setting");
         alertDialog.setMessage("GPS is not enabled. Do you want go to settings menu?");
-        alertDialog.setPositiveButton(mContext.getResources().getString(R.string.settings_button_ok), new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                Intent intent = new Intent(Settings.ACTION_LOCATION_SOURCE_SETTINGS);
-                mContext.startActivity(intent);
-            }
-        });
+//        alertDialog.setPositiveButton(mContext.getResources().getString(R.string.settings_button_ok), new DialogInterface.OnClickListener() {
+//            @Override
+//            public void onClick(DialogInterface dialog, int which) {
+//                Intent intent = new Intent(Settings.ACTION_LOCATION_SOURCE_SETTINGS);
+//                mContext.startActivity(intent);
+//            }
+//        });
 
-        alertDialog.setNegativeButton(mContext.getResources().getString(R.string.settings_button_cancel), new DialogInterface.OnClickListener() {
-            @Override
-            public void onClick(DialogInterface dialog, int which) {
-                dialog.cancel();
-            }
-        });
+//        alertDialog.setNegativeButton(mContext.getResources().getString(R.string.settings_button_cancel), new DialogInterface.OnClickListener() {
+//            @Override
+//            public void onClick(DialogInterface dialog, int which) {
+//                dialog.cancel();
+//            }
+//        });
         alertDialog.show();
     }
 

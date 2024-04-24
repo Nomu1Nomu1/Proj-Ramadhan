@@ -27,7 +27,7 @@ public class Kiblat extends AppCompatActivity {
     private ImageView imageDial;
     private float currentAzimuth;
     SharedPreferences prefs;
-    GPSTrakcer gps;
+    GPSTracker gps;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,7 +36,7 @@ public class Kiblat extends AppCompatActivity {
 
         prefs = getSharedPreferences("", MODE_PRIVATE);
         arrowViewQiblat = (RelativeLayout) findViewById(R.id.main_image_qiblat);
-        gps = new GPSTrakcer(this);
+        gps = new GPSTracker(this);
         imageDial = (ImageView) findViewById(R.id.main_image_dial);
 
         arrowViewQiblat.setVisibility(View.INVISIBLE);
@@ -189,7 +189,7 @@ public class Kiblat extends AppCompatActivity {
 
     public void fetch_GPS(){
         double result = 0;
-        gps = new GPSTrakcer(this);
+        gps = new GPSTracker(this);
         if (gps.canGetLocation()){
             Log.e("Tag", "GPS is On");
             double lat_saya = gps.getLatitude();
