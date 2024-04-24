@@ -13,13 +13,13 @@
         android:theme="@style/Theme.Ramadhan"
         tools:targetApi="31">
         <activity
-            android:name=".activityJadwalsholat"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".Loading"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".activityJadwalsholat"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
