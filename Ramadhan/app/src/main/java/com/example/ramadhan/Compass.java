@@ -6,7 +6,7 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 
-public class compass implements SensorEventListener {
+public class Compass implements SensorEventListener {
     private static final String TAG = "Compass";
 
     public interface CompassListener {
@@ -26,7 +26,7 @@ public class compass implements SensorEventListener {
     private float azimuth;
     private float azimuthFix;
 
-    public compass(Context context) {
+    public Compass(Context context) {
         sensorManager = (SensorManager) context.getSystemService(Context.SENSOR_SERVICE);
         gsensor = sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
         msensor = sensorManager.getDefaultSensor(Sensor.TYPE_MAGNETIC_FIELD);
