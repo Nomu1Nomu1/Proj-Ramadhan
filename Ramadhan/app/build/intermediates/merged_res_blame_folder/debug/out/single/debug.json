@@ -1,250 +1,254 @@
 [
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsthinitalic.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsthinitalic.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_w.png.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/w.png"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_b.png.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/b.png"
+        "merged": "com.example.ramadhan.app-merged_res-38:/layout_activity_loading.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/layout/activity_loading.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_baseline_calendar_month_24.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/baseline_calendar_month_24.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinslight.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinslight.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_yiiw.jpeg.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/yiiw.jpeg"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_ramadhan.jpg.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/ramadhan.jpg"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_wakwaww.png.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/wakwaww.png"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_ramadhan.jpg.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/ramadhan.jpg"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsliightitalic.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsliightitalic.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/xml_backup_rules.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/xml/backup_rules.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/layout_activity_main.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsblackitaliccopy.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsblackitaliccopy.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_pooppinsblack.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/pooppinsblack.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-hdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/layout_activity_kiblat.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/layout/activity_kiblat.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsblackcopy.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsblackcopy.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsextralightitalic.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsextralightitalic.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinslight.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinslight.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinssemibold.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinssemibold.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinssemibold.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinssemibold.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsmedium.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsmedium.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsextralightitalic.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsextralightitalic.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/layout_activity_loading.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/layout/activity_loading.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsblackcopy.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsblackcopy.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsextrabolditalic.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsextrabolditalic.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_pooppinsblack.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/pooppinsblack.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_ic_qibla_dua.png.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/ic_qibla_dua.png"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/menu_main_menu.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/menu/main_menu.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_desain_tanpa_judul__1_.png.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/desain_tanpa_judul__1_.png"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsliightitalic.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsliightitalic.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsrxtralight.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsrxtralight.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsbold.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsbold.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_yiiw.jpeg.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/yiiw.jpeg"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsextrabold.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsextrabold.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsbolditalic.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsbolditalic.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_plsss.jpeg.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/plsss.jpeg"
+        "merged": "com.example.ramadhan.app-merged_res-38:/menu_main_menu.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/menu/main_menu.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_ic_qibla_tiga.png.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/ic_qibla_tiga.png"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/ic_launcher_background.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-xhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_desain_tanpa_judul__1_.png.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/desain_tanpa_judul__1_.png"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsblackitalic.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsblackitalic.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsthin.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsthin.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/layout_header.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/layout/header.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_yuhuu.jpeg.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/yuhuu.jpeg"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/xml_backup_rules.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/xml/backup_rules.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsitalic.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsitalic.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsmediumitalic.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsmediumitalic.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsrxtralight.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsrxtralight.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_plsss.jpeg.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/plsss.jpeg"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsextrabolditalic.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsextrabolditalic.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsthinitalic.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsthinitalic.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_hahahay.jpeg.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/hahahay.jpeg"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_baseline_add_location_24.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/baseline_add_location_24.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsthinitaliccopy.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsthinitaliccopy.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_ic_qibla_satu.png.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/ic_qibla_satu.png"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinssemibolditalic.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinssemibolditalic.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_hahahay.jpeg.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/hahahay.jpeg"
+        "merged": "com.example.ramadhan.app-merged_res-38:/layout_activity_jadwalsholat.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/layout/activity_jadwalsholat.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_yuhuu.jpeg.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/yuhuu.jpeg"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsblackitalic.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsblackitalic.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsitalic.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsitalic.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-xhdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-xxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_ic_qibla_dua.png.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/ic_qibla_dua.png"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_wakwaww.png.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/wakwaww.png"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-mdpi/ic_launcher_foreground.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/xml_data_extraction_rules.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/xml/data_extraction_rules.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsblackitaliccopy.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsblackitaliccopy.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/layout_header.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/layout/header.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsregular.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsregular.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_ic_qibla_satu.png.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/ic_qibla_satu.png"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_ic_qibla_tiga.png.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/ic_qibla_tiga.png"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsregular.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsregular.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsthin.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsthin.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsmediumitalic.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsmediumitalic.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_baseline_add_location_24.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/baseline_add_location_24.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/layout_activity_kiblat.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/layout/activity_kiblat.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/layout_activity_jadwalsholat.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/layout/activity_jadwalsholat.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsthinitaliccopy.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsthinitaliccopy.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsbold.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsbold.ttf"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.example.ramadhan.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_b.png.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/b.png"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/ic_launcher_foreground.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_baseline_calendar_month_24.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/baseline_calendar_month_24.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/drawable_w.png.flat",
-        "source": "com.example.ramadhan.app-main-33:/drawable/w.png"
+        "merged": "com.example.ramadhan.app-merged_res-38:/drawable_baseline_refresh_24.xml.flat",
+        "source": "com.example.ramadhan.app-main-40:/drawable/baseline_refresh_24.xml"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsbolditalic.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsbolditalic.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/layout_activity_main.xml.flat",
-        "source": "com.example.ramadhan.app-main-33:/layout/activity_main.xml"
+        "merged": "com.example.ramadhan.app-merged_res-38:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.ramadhan.app-main-40:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.ramadhan.app-merged_res-31:/font_poppinsmedium.ttf.flat",
-        "source": "com.example.ramadhan.app-main-33:/font/poppinsmedium.ttf"
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinsextrabold.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinsextrabold.ttf"
+    },
+    {
+        "merged": "com.example.ramadhan.app-merged_res-38:/font_poppinssemibolditalic.ttf.flat",
+        "source": "com.example.ramadhan.app-main-40:/font/poppinssemibolditalic.ttf"
     }
 ]

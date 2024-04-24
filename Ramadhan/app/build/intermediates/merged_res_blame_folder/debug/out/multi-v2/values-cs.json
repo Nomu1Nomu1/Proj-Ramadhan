@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.ramadhan.app-mergeDebugResources-29:/values-cs/values-cs.xml",
+            "outputFile": "com.example.ramadhan.app-mergeDebugResources-36:/values-cs/values-cs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-3\\b1741c2033ae6eec819ff5ea06ca1704\\transformed\\appcompat-1.6.1\\res\\values-cs\\values-cs.xml",

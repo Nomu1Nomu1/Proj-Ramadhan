@@ -8,6 +8,7 @@ color white
 drawable b
 drawable baseline_add_location_24
 drawable baseline_calendar_month_24
+drawable baseline_refresh_24
 drawable desain_tanpa_judul__1_
 drawable hahahay
 drawable ic_launcher_background
@@ -43,7 +44,6 @@ font poppinsthin
 font poppinsthinitalic
 font poppinsthinitaliccopy
 id clock
-id countdown
 id date
 id drawer_layout
 id imageView
@@ -53,7 +53,14 @@ id main_image_arrow
 id main_image_dial
 id main_image_qiblat
 id progressBar
+id refresh
 id sidemenu
+id tv_asr_value
+id tv_dhuhr_value
+id tv_fajr_value
+id tv_isha_value
+id tv_lokasi_value
+id tv_magrib_value
 layout activity_jadwalsholat
 layout activity_kiblat
 layout activity_loading
