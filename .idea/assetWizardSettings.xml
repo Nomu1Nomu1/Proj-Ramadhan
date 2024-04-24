@@ -3,16 +3,25 @@
   <component name="WizardSettings">
     <option name="children">
       <map>
+<<<<<<< HEAD
         <entry key="imageWizard">
+=======
+        <entry key="vectorWizard">
+>>>>>>> origin/main
           <value>
             <PersistentState>
               <option name="children">
                 <map>
+<<<<<<< HEAD
                   <entry key="imageAssetPanel">
+=======
+                  <entry key="vectorAssetStep">
+>>>>>>> origin/main
                     <value>
                       <PersistentState>
                         <option name="children">
                           <map>
+<<<<<<< HEAD
                             <entry key="actionbar">
                               <value>
                                 <PersistentState>
@@ -271,6 +280,14 @@
                                           </PersistentState>
                                         </value>
                                       </entry>
+=======
+                            <entry key="clipartAsset">
+                              <value>
+                                <PersistentState>
+                                  <option name="values">
+                                    <map>
+                                      <entry key="url" value="file:/$USER_HOME$/AppData/Local/Android/Sdk/icons/material/materialicons/calendar_month/baseline_calendar_month_24.xml" />
+>>>>>>> origin/main
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -278,6 +295,15 @@
                             </entry>
                           </map>
                         </option>
+<<<<<<< HEAD
+=======
+                        <option name="values">
+                          <map>
+                            <entry key="outputName" value="baseline_calendar_month_24" />
+                            <entry key="sourceFile" value="C:\Users\T12\Documents\Kawo\Proj-Ramadhan1" />
+                          </map>
+                        </option>
+>>>>>>> origin/main
                       </PersistentState>
                     </value>
                   </entry>
