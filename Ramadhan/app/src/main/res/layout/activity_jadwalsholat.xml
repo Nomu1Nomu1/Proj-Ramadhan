@@ -5,6 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/bgjadwalsholat"
     tools:context=".activityJadwalsholat">
 
 
@@ -14,16 +15,16 @@
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="409dp"
+            android:layout_width="412dp"
             android:layout_height="208dp"
-            android:layout_marginTop="15dp"
+            android:layout_marginTop="40dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="1.0"
-            app:srcCompat="@drawable/wakwaww" />
+            app:srcCompat="@drawable/yuhuu" />
 
         <TextView
             android:id="@+id/clock"
@@ -58,10 +59,10 @@
     <androidx.cardview.widget.CardView
         android:layout_width="390dp"
         android:layout_height="400dp"
-        android:layout_marginTop="190dp"
+        android:layout_marginTop="210dp"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
-        app:cardElevation="50dp"
+        app:cardElevation="15dp"
         app:cardCornerRadius="25dp">
 
         <TextView
@@ -74,6 +75,136 @@
             android:gravity="top|center_horizontal"
             android:textSize="15dp"
             android:text="Tanggal" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="70dp"
+                android:text="Imsak"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="25dp"
+                android:text="Fajr"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="25dp"
+                android:text="dzuhur"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="25dp"
+                android:text="Ashar"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="25dp"
+                android:text="Magrib"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="50dp"
+                android:layout_marginTop="25dp"
+                android:text="Isya'"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="250dp"
+                android:layout_marginTop="70dp"
+                android:text="04.01"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="250dp"
+                android:layout_marginTop="25dp"
+                android:text="04.21"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="250dp"
+                android:layout_marginTop="25dp"
+                android:text="11.38"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="250dp"
+                android:layout_marginTop="25dp"
+                android:text="14.58"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="250dp"
+                android:layout_marginTop="25dp"
+                android:text="17.35"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="250dp"
+                android:layout_marginTop="25dp"
+                android:text="18.44"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                />
+        </LinearLayout>
 
     </androidx.cardview.widget.CardView>
 </RelativeLayout>
