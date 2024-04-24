@@ -58,8 +58,6 @@ public class compass implements SensorEventListener {
 
 
 
-
-
     @Override
     public void onSensorChanged(SensorEvent event) {
 
