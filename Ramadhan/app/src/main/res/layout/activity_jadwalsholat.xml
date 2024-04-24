@@ -11,20 +11,21 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:background="@color/hehejadwa">
 
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="412dp"
-            android:layout_height="208dp"
-            android:layout_marginTop="40dp"
+            android:layout_width="443dp"
+            android:layout_height="188dp"
+            android:layout_marginTop="45dp"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.0"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="1.0"
-            app:srcCompat="@drawable/yuhuu" />
+            app:srcCompat="@drawable/hahahay" />
 
         <TextView
             android:id="@+id/clock"
@@ -34,20 +35,20 @@
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="43dp"
-            android:textStyle="bold"
+            android:fontFamily="@font/poppinsextrabold"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintVertical_bias="0.436" />
 
         <TextView
-            android:id="@+id/countdown"
+            android:id="@+id/tv_lokasi_value"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="-00:00:00"
             android:textAlignment="center"
             android:textColor="@color/black"
             android:textSize="17dp"
+            android:fontFamily="@font/poppinslight"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toTopOf="parent"
@@ -74,6 +75,7 @@
             android:layout_gravity="center_horizontal"
             android:gravity="top|center_horizontal"
             android:textSize="15dp"
+            android:fontFamily="@font/poppinsmedium"
             android:text="Tanggal" />
 
         <LinearLayout
@@ -156,6 +158,7 @@
                 />
 
             <TextView
+                android:id="@+id/tv_fajr_value"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="250dp"
@@ -166,6 +169,7 @@
                 />
 
             <TextView
+                android:id="@+id/tv_dhuhr_value"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="250dp"
@@ -176,6 +180,7 @@
                 />
 
             <TextView
+                android:id="@+id/tv_asr_value"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="250dp"
@@ -186,6 +191,7 @@
                 />
 
             <TextView
+                android:id="@+id/tv_magrib_value"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="250dp"
@@ -196,6 +202,7 @@
                 />
 
             <TextView
+                android:id="@+id/tv_isha_value"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="250dp"
@@ -205,6 +212,20 @@
                 android:textColor="@color/black"
                 />
         </LinearLayout>
+        
+
+
 
     </androidx.cardview.widget.CardView>
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/refresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_refresh_24"
+        android:layout_marginLeft="325dp"
+        android:layout_marginTop="650dp"
+        android:backgroundTint="#2EE397"/>
+
 </RelativeLayout>
