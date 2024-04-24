@@ -32,7 +32,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.Ramadhan" >
         <activity
-            android:name="com.example.ramadhan.Kiblat"
+            android:name="com.example.ramadhan.activityJadwalsholat"
             android:exported="false" />
         <activity
             android:name="com.example.ramadhan.MainActivity"
@@ -41,7 +41,7 @@
             android:name="com.example.ramadhan.Loading"
             android:exported="false" />
         <activity
-            android:name="com.example.ramadhan.activityJadwalsholat"
+            android:name="com.example.ramadhan.Kiblat"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

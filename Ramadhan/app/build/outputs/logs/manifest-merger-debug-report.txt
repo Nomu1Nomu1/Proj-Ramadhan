@@ -108,12 +108,12 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\asus\.gradle\cache
 		ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:17:9-46
 	android:dataExtractionRules
 		ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:11:9-65
-activity#com.example.ramadhan.Kiblat
+activity#com.example.ramadhan.activityJadwalsholat
 ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:19:9-21:40
 	android:exported
 		ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:20:13-35
+		ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:20:13-49
 activity#com.example.ramadhan.MainActivity
 ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:22:9-24:40
 	android:exported
@@ -126,12 +126,12 @@ ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidMa
 		ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:27:13-37
 	android:name
 		ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:26:13-36
-activity#com.example.ramadhan.activityJadwalsholat
+activity#com.example.ramadhan.Kiblat
 ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:28:9-36:20
 	android:exported
 		ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:29:13-49
+		ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:29:13-35
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from D:\Folder androidStudio\Java\Ramadhan\Ramadhan\app\src\main\AndroidManifest.xml:31:13-35:29
 action#android.intent.action.MAIN

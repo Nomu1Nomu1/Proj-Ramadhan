@@ -5,6 +5,7 @@
             android:icon="@drawable/baseline_calendar_month_24"
             android:title="Jadwal"/>
         <item android:id="@+id/kiblat"
+            android:icon="@drawable/baseline_add_location_24"
             android:title="Kiblat"/>
     </group>
 
