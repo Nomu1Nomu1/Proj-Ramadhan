@@ -56,9 +56,9 @@ public class compass implements SensorEventListener {
         setAzimuthFix(0);
     }
 
-    public void setListener(CompassListener){
 
-    }
+
+
 
     @Override
     public void onSensorChanged(SensorEvent event) {
