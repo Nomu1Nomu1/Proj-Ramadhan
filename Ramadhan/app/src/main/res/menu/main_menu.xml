@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/jadwal"
+            android:icon="@drawable/baseline_calendar_month_24"
+            android:title="Jadwal"/>
+        <item android:id="@+id/kiblat"
+            android:icon=""
+            android:title="Kiblat"/>
+    </group>
+
+</menu>
